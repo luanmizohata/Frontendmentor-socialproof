@@ -25,14 +25,15 @@ Desktop - 1440px
 ![](./design/print-desktop.png)
 
 Mobile - 375px
+
 ![](./design/mobile-design.jpg)
 
 ## Processo
 
 ### Construído com
 
-- HTML5 Semântico
-- CSS
+- HTML5
+- CSS3
 - Flexbox
 - Responsividade
 - Mobile-first
